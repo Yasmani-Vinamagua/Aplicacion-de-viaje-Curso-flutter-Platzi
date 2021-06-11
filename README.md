@@ -20,4 +20,4 @@ Para ver todo el potencial que tiene Flutter en la creación de interfaces avanz
 - Manejó el hardware en iOS y Android accediendo a la cámara del dispositivo, tomando fotos y después subiéndolas al Firebase Storage. 
 - Construyó una aplicación móvil para Android e iOS totalmente conectada a Firebase.
 
-Nota: el repositorio original está [**aquí**](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/29.ManageImageFirebaseStorage "aquí") del curso es  aunque este contiene librerias muy antiguas. 
+Nota: el repositorio original del curso está [**aquí**](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/29.ManageImageFirebaseStorage "aquí") aunque este está desactualizado y al 2021 se deben realizar ciertos cambios. 
