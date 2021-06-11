@@ -19,3 +19,5 @@ Para ver todo el potencial que tiene Flutter en la creación de interfaces avanz
 - Usó la base de datos Realtime de Cloud Firestore, 
 - Manejó el hardware en iOS y Android accediendo a la cámara del dispositivo, tomando fotos y después subiéndolas al Firebase Storage. 
 - Construyó una aplicación móvil para Android e iOS totalmente conectada a Firebase.
+
+nota: el repositorio original del curso es https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/29.ManageImageFirebaseStorage aunque este contiene librerias muy antiguas. 
