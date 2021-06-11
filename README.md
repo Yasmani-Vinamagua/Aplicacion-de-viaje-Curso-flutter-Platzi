@@ -1,16 +1,21 @@
-# platzi_flutter_application_1
+# Aplicación de viajes en Flutter
 
-A new Flutter project.
+El curso de Flutter desarrollado en dos partes (básico y avanzado) se enfoca en diseñar una interfaz de usuario de manera sencilla y en tiempo record, aún cuando esta es común para: Android e iOS.
 
-## Getting Started
+Para ver todo el potencial que tiene Flutter en la creación de interfaces avanzadas que ofrecen una excelente experiencia de usuario puedes consultar el catálogo de demostraciones creado por la comunidad en el sitio web https://startflutter.com
 
-This project is a starting point for a Flutter application.
+## En el curso básico de Flutter se:
 
-A few resources to get you started if this is your first Flutter project:
+- Desarrolló una (**interfaz**)(uplabs.com "interfaz").
+- Generó Gradients.
+- Botones personalizados.
+- ListView horizontal.
+- Integración de tipografías, íconos e imágenes.
+- Realizó un Bottom Tab Bar para Android con Material Design y iOS con Cupertino.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## En el curso avanzado de Flutter se:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Implementó autenticación con Google a través de Firebase, 
+- Usó la base de datos Realtime de Cloud Firestore, 
+- Manejó el hardware en iOS y Android accediendo a la cámara del dispositivo, tomando fotos y después subiéndolas al Firebase Storage. 
+- Construyó una aplicación móvil para Android e iOS totalmente conectada a Firebase.
