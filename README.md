@@ -6,7 +6,7 @@ Para ver todo el potencial que tiene Flutter en la creación de interfaces avanz
 
 ## En el curso básico de Flutter se:
 
-- Desarrolló una (**interfaz**)(uplabs.com "interfaz").
+- Desarrolló una [**interfaz**](uplabs.com "interfaz").
 - Generó Gradients.
 - Botones personalizados.
 - ListView horizontal.
@@ -20,4 +20,4 @@ Para ver todo el potencial que tiene Flutter en la creación de interfaces avanz
 - Manejó el hardware en iOS y Android accediendo a la cámara del dispositivo, tomando fotos y después subiéndolas al Firebase Storage. 
 - Construyó una aplicación móvil para Android e iOS totalmente conectada a Firebase.
 
-nota: el repositorio original del curso es https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/29.ManageImageFirebaseStorage aunque este contiene librerias muy antiguas. 
+Nota: el repositorio original está [**aquí**](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/29.ManageImageFirebaseStorage "aquí") del curso es  aunque este contiene librerias muy antiguas. 
