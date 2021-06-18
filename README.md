@@ -2,7 +2,7 @@
 
 El curso de Flutter desarrollado en dos partes (básico y avanzado) se enfoca en diseñar una interfaz de usuario de manera sencilla y en tiempo record, aún cuando esta es común para: Android e iOS.
 
-<p align="center"><img height="300" width="125" alt="Home App" src="https://github.com/yasmani08/Aplicacion-de-viaje-Curso-flutter-Plartzi/blob/master/CAPTURA_1.PNG" hspace="100">                              <img height="300" width="125" alt="Profile App" src="https://github.com/yasmani08/Aplicacion-de-viaje-Curso-flutter-Plartzi/blob/master/CAPTURA_2.PNG"></p>
+<p align="center"><img height="300" width="125" alt="Home App" src="https://github.com/yasmani08/Aplicacion-de-viaje-Curso-flutter-Plartzi/blob/master/CAPTURA_1.PNG" hspace="100">                              <img height="300" width="125" alt="Profile App" src="https://github.com/yasmani08/Aplicacion-de-viaje-Curso-flutter-Plartzi/blob/master/CAPTURA_2.PNG" hspace="100"></p>
 
 Para ver todo el potencial que tiene Flutter en la creación de interfaces avanzadas que ofrecen una excelente experiencia de usuario puedes consultar el catálogo de demostraciones creado por la comunidad en el sitio web https://startflutter.com
 
