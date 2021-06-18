@@ -17,14 +17,6 @@ class FloatingActionButtonGreen extends StatefulWidget {
 }
 
 class _FloatingActionButtonGreen extends State<FloatingActionButtonGreen> {
-  /*void onPressedFav() {
-    Scaffold.of(context).showSnackBar(
-      SnackBar(
-        content: Text("Agregaste a tus Favoritos"),
-      ),
-    );
-  }*/
-
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
@@ -33,7 +25,7 @@ class _FloatingActionButtonGreen extends State<FloatingActionButtonGreen> {
       backgroundColor: Color(0xff11da53),
       mini: true,
       tooltip: "Fav",
-      child: Icon(Icons.favorite_border),
+      child: Icon(widget.iconData),
       heroTag: null,
     );
   }

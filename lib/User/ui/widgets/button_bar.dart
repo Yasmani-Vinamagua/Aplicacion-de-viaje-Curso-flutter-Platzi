@@ -8,10 +8,10 @@ import 'dart:io';
 
 class ButtonsBar extends StatelessWidget {
   UserBloc userBloc;
-  final picker = ImagePicker();
 
   @override
   Widget build(BuildContext context) {
+    final _picker = ImagePicker();
     userBloc = BlocProvider.of(context);
     return Padding(
       padding: EdgeInsets.symmetric(
@@ -27,18 +27,15 @@ class ButtonsBar extends StatelessWidget {
           CircleButton(false, Icons.add, 40.0, Color.fromRGBO(255, 255, 255, 1),
               () {
             //tomar foto con celular
-            picker
+            _picker
                 .getImage(source: ImageSource.camera)
                 .then((PickedFile image) {
-              //if (image != null) {
               Navigator.push(
-                context,
-                MaterialPageRoute(
-                    builder: (BuildContext context) =>
-                        AddPlaceScreen(image: File(image.path))),
-              ).catchError((onError) => print(onError));
-              // }
-            });
+                  context,
+                  MaterialPageRoute(
+                      builder: (BuildContext context) =>
+                          AddPlaceScreen(image: File(image.path))));
+            }).catchError((onError) => print(onError));
           }),
 
           //Cerrar Sesión

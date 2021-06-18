@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:platzi_flutter_application_1/User/bloc/bloc_user.dart';
 import 'package:platzi_flutter_application_1/User/ui/screens/sign_in_screen.dart';
-import 'platzi_trips_cupertino.dart';
 import 'package:generic_bloc_provider/generic_bloc_provider.dart';
 
 void main() => runApp(MyApp());

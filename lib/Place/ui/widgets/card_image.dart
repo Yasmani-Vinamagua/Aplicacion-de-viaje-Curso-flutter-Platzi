@@ -1,5 +1,4 @@
-import 'dart:io';
-
+import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:platzi_flutter_application_1/widgets/floating_action_button_green.dart';
 
@@ -8,8 +7,9 @@ class CardImageWidthFabIcon extends StatelessWidget {
   final double width;
   double left;
   final String pathImage;
-  VoidCallback onPressFabIcon;
+  final VoidCallback onPressFabIcon;
   final IconData iconData;
+  bool internet = true;
 
   CardImageWidthFabIcon({
     Key key,
@@ -18,6 +18,7 @@ class CardImageWidthFabIcon extends StatelessWidget {
     @required this.width,
     @required this.onPressFabIcon,
     @required this.iconData,
+    this.internet,
     this.left,
   });
 
@@ -32,7 +33,9 @@ class CardImageWidthFabIcon extends StatelessWidget {
       decoration: BoxDecoration(
           image: DecorationImage(
             fit: BoxFit.cover,
-            image: AssetImage(pathImage),
+            image: internet
+                ? CachedNetworkImageProvider(pathImage)
+                : AssetImage(pathImage),
           ),
           borderRadius: BorderRadius.all(Radius.circular(10.0)),
           shape: BoxShape.rectangle,

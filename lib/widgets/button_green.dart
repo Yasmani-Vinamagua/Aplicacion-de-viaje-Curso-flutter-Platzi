@@ -4,7 +4,7 @@ class ButtonGreen extends StatefulWidget {
   final String text;
   double width = 0.0;
   double height = 0.0;
-  VoidCallback onPressed;
+  final VoidCallback onPressed;
 
   ButtonGreen(
       {Key key,
@@ -34,7 +34,7 @@ class _ButtonGreen extends State<ButtonGreen> {
         height: widget.height,
         width: widget.width,
         decoration: BoxDecoration(
-          borderRadius: BorderRadius.circular(30.0),
+          borderRadius: BorderRadius.circular(10.0),
           gradient: LinearGradient(
             colors: [
               Color(0xffa7ff84), //arrinba
@@ -50,10 +50,10 @@ class _ButtonGreen extends State<ButtonGreen> {
           child: Text(
             widget.text,
             style: TextStyle(
-              fontSize: 18.0,
-              fontFamily: "Lato",
-              color: Colors.white,
-            ),
+                fontSize: 18.0,
+                fontFamily: "Lato",
+                color: Colors.white,
+                fontWeight: FontWeight.bold),
           ),
         ),
       ),

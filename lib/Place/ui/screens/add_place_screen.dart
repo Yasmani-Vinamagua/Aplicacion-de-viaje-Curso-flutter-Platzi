@@ -1,5 +1,6 @@
 import 'dart:io';
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
 import 'package:generic_bloc_provider/generic_bloc_provider.dart';
 import 'package:platzi_flutter_application_1/Place/model/place.dart';
@@ -13,7 +14,9 @@ import 'package:platzi_flutter_application_1/widgets/title_header.dart';
 
 class AddPlaceScreen extends StatefulWidget {
   File image;
+
   AddPlaceScreen({Key key, this.image});
+
   @override
   State createState() {
     return _AddPlaceScreen();
@@ -23,15 +26,18 @@ class AddPlaceScreen extends StatefulWidget {
 class _AddPlaceScreen extends State<AddPlaceScreen> {
   @override
   Widget build(BuildContext context) {
+    // TODO: implement build
     UserBloc userBloc = BlocProvider.of<UserBloc>(context);
+
     final _controllerTitlePlace = TextEditingController();
     final _controllerDescriptionPlace = TextEditingController();
 
-    // TODO: implement build
     return Scaffold(
       body: Stack(
         children: <Widget>[
-          GradientBack(height: 300.0),
+          GradientBack(
+            height: 300.0,
+          ),
           Row(
             //App Bar
             children: <Widget>[
@@ -41,46 +47,35 @@ class _AddPlaceScreen extends State<AddPlaceScreen> {
                   height: 45.0,
                   width: 45.0,
                   child: IconButton(
-                    icon: Icon(
-                      Icons.keyboard_arrow_left,
-                      color: Colors.white,
-                      size: 45,
-                    ),
-                    onPressed: () {
-                      Navigator.pop(context);
-                    },
-                  ),
+                      icon: Icon(
+                        Icons.keyboard_arrow_left,
+                        color: Colors.white,
+                        size: 45,
+                      ),
+                      onPressed: () {
+                        Navigator.pop(context);
+                      }),
                 ),
               ),
               Flexible(
-                child: Container(
-                  padding: EdgeInsets.only(
-                    top: 45.0,
-                    left: 20.0,
-                    right: 10.0,
-                  ),
-                  child: TitleHeader(
-                    title: "Add a new Place",
-                  ),
-                ),
-              )
+                  child: Container(
+                padding: EdgeInsets.only(top: 45.0, left: 20.0, right: 10.0),
+                child: TitleHeader(title: "Add a new Place"),
+              ))
             ],
           ),
           Container(
-            margin: EdgeInsets.only(
-              top: 120.0,
-              bottom: 20.0,
-            ),
+            margin: EdgeInsets.only(top: 120.0, bottom: 20.0),
             child: ListView(
               children: <Widget>[
                 Container(
                   alignment: Alignment.center,
                   child: CardImageWidthFabIcon(
-                    pathImage: widget.image.path,
+                    pathImage: widget.image.path, //"assets/img/sunset.jpeg",
                     iconData: Icons.camera_alt,
                     width: 350.0,
-                    height: 250.0,
-                    left: 0,
+                    height: 250.0, left: 0,
+                    internet: false,
                   ),
                 ), //Foto
                 Container(
@@ -89,8 +84,8 @@ class _AddPlaceScreen extends State<AddPlaceScreen> {
                   child: TextInput(
                     hintText: "Title",
                     inputType: null,
-                    maxlines: 1,
                     controller: _controllerTitlePlace,
+                    maxlines: 1,
                   ),
                 ),
                 TextInput(
@@ -103,33 +98,46 @@ class _AddPlaceScreen extends State<AddPlaceScreen> {
                 Container(
                   margin: EdgeInsets.only(top: 20.0),
                   child: TextInputLocation(
-                    hintText: "Add Locartion",
-                    iconData: Icons.location_on,
-                  ),
+                      hintText: "Add Location", iconData: Icons.location_on),
                 ),
                 Container(
                   width: 70.0,
                   child: ButtonPurple(
                     buttonText: "Add Place",
                     onPressed: () {
+                      //ID del usuario logeado actualmente
                       userBloc.currentUser.then((FirebaseUser user) {
                         if (user != null) {
-                          //1. firebase storage
+                          String uid = user.uid;
+                          String path =
+                              "${uid}/${DateTime.now().toString()}.jpg";
+                          //1. Firebase Storage
                           //url -
+                          userBloc
+                              .uploadFile(path, widget.image)
+                              .then((StorageUploadTask storageUploadTask) {
+                            storageUploadTask.onComplete
+                                .then((StorageTaskSnapshot snapshot) {
+                              snapshot.ref.getDownloadURL().then((urlImage) {
+                                print("URLIMAGE: ${urlImage}");
 
+                                //2. Cloud Firestore
+                                //Place - title, description, url, userOwner, likes
+                                userBloc
+                                    .updatePlaceData(Place(
+                                  name: _controllerTitlePlace.text,
+                                  description: _controllerDescriptionPlace.text,
+                                  urlImage: urlImage,
+                                  likes: 0,
+                                ))
+                                    .whenComplete(() {
+                                  print("TERMINO");
+                                  Navigator.pop(context);
+                                });
+                              });
+                            });
+                          });
                         }
-                      });
-                      //2. Cloud Firestore
-                      //Place - title, description, url, userOwner, Likes ...
-                      userBloc
-                          .updatePlaceDate(Place(
-                        name: _controllerTitlePlace.text,
-                        description: _controllerDescriptionPlace.text,
-                        likes: 0,
-                      ))
-                          .whenComplete(() {
-                        print("TERMINO");
-                        Navigator.pop(context);
                       });
                     },
                   ),

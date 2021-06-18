@@ -5,29 +5,32 @@ INJECTED from C:\Users\YASMANI\Desktop\platzi_flutter_application_1\android\app\
 INJECTED from C:\Users\YASMANI\Desktop\platzi_flutter_application_1\android\app\src\main\AndroidManifest.xml:1:1-47:12
 INJECTED from C:\Users\YASMANI\Desktop\platzi_flutter_application_1\android\app\src\main\AndroidManifest.xml:1:1-47:12
 MERGED from C:\Users\YASMANI\Desktop\platzi_flutter_application_1\android\app\src\main\AndroidManifest.xml:1:1-47:12
-MERGED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
-MERGED from [:firebase_auth] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
-MERGED from [:image_picker] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
-MERGED from [:flutter_plugin_android_lifecycle] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:cloud_firestore] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
 MERGED from [:google_sign_in] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:firebase_storage] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:sqflite] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:path_provider] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:cloud_firestore] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_auth] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
 MERGED from [:firebase_core] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
-MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\896d70a32d824330aae9cd15a4d17b2d\firebase-analytics-16.5.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b36e8cabc026e2b9451afab64f421250\jetified-firebase-auth-17.0.0\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:17:1-39:12
 MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\33ff89dd784c3373bf863217adbb3d5b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:2:1-26:12
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\627740c16ca6b1437d59651e6b834043\grpc-android-1.21.0\AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\89cdd51e06000a5f6d8fab2d1dd0c21f\jetified-firebase-storage-17.0.0\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b36e8cabc026e2b9451afab64f421250\jetified-firebase-auth-17.0.0\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\896d70a32d824330aae9cd15a4d17b2d\firebase-analytics-16.5.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\713db4d2ce26b864605c5f767a4d4a34\jetified-play-services-measurement-api-16.5.0\AndroidManifest.xml:17:1-36:12
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\5113533ce25f43056474de64d1958436\firebase-auth-interop-18.0.0\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\31f39bd9406c83ef28ca1748dae75298\jetified-firebase-iid-17.1.2\AndroidManifest.xml:17:1-59:12
 MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\8781d0c7f83fc7dc4b8f189f24f2a928\jetified-firebase-common-19.3.0\AndroidManifest.xml:15:1-39:12
 MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\ec604e5449993e8427d7c9f0987e34db\exifinterface-1.3.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\6c9798e73dd96dd8f6cacb743c856937\jetified-play-services-auth-api-phone-16.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\c05b888e99cad0db116b050ecbf29c68\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\73c6ebae55e1063976da0bfb8db291ee\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:17:1-55:12
 MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b80e2dafdb25273165a66e5ed3d5d200\jetified-play-services-measurement-sdk-16.5.0\AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b8838b9574b668b4e6192606fb991256\play-services-flags-16.0.1\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\6c9798e73dd96dd8f6cacb743c856937\jetified-play-services-auth-api-phone-16.0.0\AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\c05b888e99cad0db116b050ecbf29c68\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\630d7dae4b3b26485b5eb7382424f7fb\jetified-firebase-iid-interop-16.0.1\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\892f12cb19c195a7eda8426a3af31064\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\002ce1e7da4adfebc3ab9fabb0e1ce9b\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
@@ -52,7 +55,6 @@ MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\YASMANI\.g
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\eccde25b580ef47ee801dc11c50c8add\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\d7d046dfd56aa1358b7aa384dca4509d\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\19a56dd0d8c0f0143e9829011684d0b8\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
-MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\627740c16ca6b1437d59651e6b834043\grpc-android-1.21.0\AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\23d7c4cbcebb583a4a438c40f282b1cc\firebase-database-collection-17.0.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\2cb575ee80d366ed9a797ea77737fda0\protolite-well-known-types-17.0.0\AndroidManifest.xml:2:1-11:12
 INJECTED from C:\Users\YASMANI\Desktop\platzi_flutter_application_1\android\app\src\debug\AndroidManifest.xml:1:1-7:12
@@ -74,26 +76,28 @@ INJECTED from C:\Users\YASMANI\Desktop\platzi_flutter_application_1\android\app\
 		ADDED from C:\Users\YASMANI\Desktop\platzi_flutter_application_1\android\app\src\main\AndroidManifest.xml:1:11-69
 application
 ADDED from C:\Users\YASMANI\Desktop\platzi_flutter_application_1\android\app\src\main\AndroidManifest.xml:8:5-46:19
-MERGED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-17:19
-MERGED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-17:19
-MERGED from [:firebase_auth] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_auth] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [:image_picker] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
-MERGED from [:image_picker] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
-MERGED from [:cloud_firestore] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [:cloud_firestore] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
 MERGED from [:firebase_storage] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
 MERGED from [:firebase_storage] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:image_picker] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-17:19
+MERGED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-17:19
+MERGED from [:cloud_firestore] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
 MERGED from [:firebase_core] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
 MERGED from [:firebase_core] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\896d70a32d824330aae9cd15a4d17b2d\firebase-analytics-16.5.0\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\896d70a32d824330aae9cd15a4d17b2d\firebase-analytics-16.5.0\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b36e8cabc026e2b9451afab64f421250\jetified-firebase-auth-17.0.0\AndroidManifest.xml:23:5-40:19
-MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b36e8cabc026e2b9451afab64f421250\jetified-firebase-auth-17.0.0\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\33ff89dd784c3373bf863217adbb3d5b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:16:5-24:19
 MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\33ff89dd784c3373bf863217adbb3d5b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:16:5-24:19
 MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\89cdd51e06000a5f6d8fab2d1dd0c21f\jetified-firebase-storage-17.0.0\AndroidManifest.xml:29:5-35:19
 MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\89cdd51e06000a5f6d8fab2d1dd0c21f\jetified-firebase-storage-17.0.0\AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b36e8cabc026e2b9451afab64f421250\jetified-firebase-auth-17.0.0\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b36e8cabc026e2b9451afab64f421250\jetified-firebase-auth-17.0.0\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\896d70a32d824330aae9cd15a4d17b2d\firebase-analytics-16.5.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\896d70a32d824330aae9cd15a4d17b2d\firebase-analytics-16.5.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\713db4d2ce26b864605c5f767a4d4a34\jetified-play-services-measurement-api-16.5.0\AndroidManifest.xml:26:5-34:19
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\713db4d2ce26b864605c5f767a4d4a34\jetified-play-services-measurement-api-16.5.0\AndroidManifest.xml:26:5-34:19
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\5113533ce25f43056474de64d1958436\firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
@@ -102,8 +106,6 @@ MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\YASMANI\.gradle\c
 MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\31f39bd9406c83ef28ca1748dae75298\jetified-firebase-iid-17.1.2\AndroidManifest.xml:28:5-57:19
 MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\8781d0c7f83fc7dc4b8f189f24f2a928\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
 MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\8781d0c7f83fc7dc4b8f189f24f2a928\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:22:5-37:19
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\73c6ebae55e1063976da0bfb8db291ee\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:28:5-53:19
 MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\73c6ebae55e1063976da0bfb8db291ee\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:28:5-53:19
 MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b80e2dafdb25273165a66e5ed3d5d200\jetified-play-services-measurement-sdk-16.5.0\AndroidManifest.xml:22:5-23:19
@@ -186,30 +188,38 @@ uses-sdk
 INJECTED from C:\Users\YASMANI\Desktop\platzi_flutter_application_1\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\YASMANI\Desktop\platzi_flutter_application_1\android\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\YASMANI\Desktop\platzi_flutter_application_1\android\app\src\main\AndroidManifest.xml
-MERGED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:image_picker] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:image_picker] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:flutter_plugin_android_lifecycle] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:flutter_plugin_android_lifecycle] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:google_sign_in] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:google_sign_in] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_storage] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_storage] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_core] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_core] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\896d70a32d824330aae9cd15a4d17b2d\firebase-analytics-16.5.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\896d70a32d824330aae9cd15a4d17b2d\firebase-analytics-16.5.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b36e8cabc026e2b9451afab64f421250\jetified-firebase-auth-17.0.0\AndroidManifest.xml:21:5-44
-MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b36e8cabc026e2b9451afab64f421250\jetified-firebase-auth-17.0.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\33ff89dd784c3373bf863217adbb3d5b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\33ff89dd784c3373bf863217adbb3d5b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\627740c16ca6b1437d59651e6b834043\grpc-android-1.21.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\627740c16ca6b1437d59651e6b834043\grpc-android-1.21.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\89cdd51e06000a5f6d8fab2d1dd0c21f\jetified-firebase-storage-17.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\89cdd51e06000a5f6d8fab2d1dd0c21f\jetified-firebase-storage-17.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b36e8cabc026e2b9451afab64f421250\jetified-firebase-auth-17.0.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b36e8cabc026e2b9451afab64f421250\jetified-firebase-auth-17.0.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\896d70a32d824330aae9cd15a4d17b2d\firebase-analytics-16.5.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\896d70a32d824330aae9cd15a4d17b2d\firebase-analytics-16.5.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\713db4d2ce26b864605c5f767a4d4a34\jetified-play-services-measurement-api-16.5.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\713db4d2ce26b864605c5f767a4d4a34\jetified-play-services-measurement-api-16.5.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\5113533ce25f43056474de64d1958436\firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
@@ -220,18 +230,16 @@ MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\YASMANI\.gradl
 MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\8781d0c7f83fc7dc4b8f189f24f2a928\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\ec604e5449993e8427d7c9f0987e34db\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\ec604e5449993e8427d7c9f0987e34db\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\6c9798e73dd96dd8f6cacb743c856937\jetified-play-services-auth-api-phone-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\6c9798e73dd96dd8f6cacb743c856937\jetified-play-services-auth-api-phone-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\c05b888e99cad0db116b050ecbf29c68\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\c05b888e99cad0db116b050ecbf29c68\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\73c6ebae55e1063976da0bfb8db291ee\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\73c6ebae55e1063976da0bfb8db291ee\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b80e2dafdb25273165a66e5ed3d5d200\jetified-play-services-measurement-sdk-16.5.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b80e2dafdb25273165a66e5ed3d5d200\jetified-play-services-measurement-sdk-16.5.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b8838b9574b668b4e6192606fb991256\play-services-flags-16.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b8838b9574b668b4e6192606fb991256\play-services-flags-16.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\6c9798e73dd96dd8f6cacb743c856937\jetified-play-services-auth-api-phone-16.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\6c9798e73dd96dd8f6cacb743c856937\jetified-play-services-auth-api-phone-16.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\c05b888e99cad0db116b050ecbf29c68\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\c05b888e99cad0db116b050ecbf29c68\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\630d7dae4b3b26485b5eb7382424f7fb\jetified-firebase-iid-interop-16.0.1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\630d7dae4b3b26485b5eb7382424f7fb\jetified-firebase-iid-interop-16.0.1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\892f12cb19c195a7eda8426a3af31064\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
@@ -280,8 +288,6 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\YA
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\d7d046dfd56aa1358b7aa384dca4509d\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\19a56dd0d8c0f0143e9829011684d0b8\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\19a56dd0d8c0f0143e9829011684d0b8\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\627740c16ca6b1437d59651e6b834043\grpc-android-1.21.0\AndroidManifest.xml:7:5-9:41
-MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\627740c16ca6b1437d59651e6b834043\grpc-android-1.21.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\23d7c4cbcebb583a4a438c40f282b1cc\firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\23d7c4cbcebb583a4a438c40f282b1cc\firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\2cb575ee80d366ed9a797ea77737fda0\protolite-well-known-types-17.0.0\AndroidManifest.xml:7:5-9:41
@@ -296,10 +302,10 @@ INJECTED from C:\Users\YASMANI\Desktop\platzi_flutter_application_1\android\app\
 		INJECTED from C:\Users\YASMANI\Desktop\platzi_flutter_application_1\android\app\src\debug\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\YASMANI\Desktop\platzi_flutter_application_1\android\app\src\debug\AndroidManifest.xml:6:5-66
-MERGED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-67
-MERGED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-67
 MERGED from [:google_sign_in] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
 MERGED from [:google_sign_in] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-67
+MERGED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-67
 MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\33ff89dd784c3373bf863217adbb3d5b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:14:5-67
 MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\33ff89dd784c3373bf863217adbb3d5b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:14:5-67
 MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\89cdd51e06000a5f6d8fab2d1dd0c21f\jetified-firebase-storage-17.0.0\AndroidManifest.xml:27:5-67
@@ -316,56 +322,22 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\cbe8c557cb936c15c17195565a33bcf5\jetified-play-services-measurement-sdk-api-16.5.0\AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from C:\Users\YASMANI\Desktop\platzi_flutter_application_1\android\app\src\debug\AndroidManifest.xml:6:22-64
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
-MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\33ff89dd784c3373bf863217adbb3d5b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:13:5-79
-MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\33ff89dd784c3373bf863217adbb3d5b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:13:5-79
-MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\89cdd51e06000a5f6d8fab2d1dd0c21f\jetified-firebase-storage-17.0.0\AndroidManifest.xml:26:5-79
-MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\89cdd51e06000a5f6d8fab2d1dd0c21f\jetified-firebase-storage-17.0.0\AndroidManifest.xml:26:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\713db4d2ce26b864605c5f767a4d4a34\jetified-play-services-measurement-api-16.5.0\AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\713db4d2ce26b864605c5f767a4d4a34\jetified-play-services-measurement-api-16.5.0\AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\31f39bd9406c83ef28ca1748dae75298\jetified-firebase-iid-17.1.2\AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\31f39bd9406c83ef28ca1748dae75298\jetified-firebase-iid-17.1.2\AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\73c6ebae55e1063976da0bfb8db291ee\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\73c6ebae55e1063976da0bfb8db291ee\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\8788329fc7857a8f3087d90c849888cf\jetified-play-services-measurement-impl-16.5.0\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\8788329fc7857a8f3087d90c849888cf\jetified-play-services-measurement-impl-16.5.0\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\cbe8c557cb936c15c17195565a33bcf5\jetified-play-services-measurement-sdk-api-16.5.0\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\cbe8c557cb936c15c17195565a33bcf5\jetified-play-services-measurement-sdk-api-16.5.0\AndroidManifest.xml:24:5-79
-MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\627740c16ca6b1437d59651e6b834043\grpc-android-1.21.0\AndroidManifest.xml:11:5-79
-MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\627740c16ca6b1437d59651e6b834043\grpc-android-1.21.0\AndroidManifest.xml:11:5-79
-	android:name
-		ADDED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-76
-uses-permission#android.permission.WAKE_LOCK
-ADDED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-68
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\713db4d2ce26b864605c5f767a4d4a34\jetified-play-services-measurement-api-16.5.0\AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\713db4d2ce26b864605c5f767a4d4a34\jetified-play-services-measurement-api-16.5.0\AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\31f39bd9406c83ef28ca1748dae75298\jetified-firebase-iid-17.1.2\AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\31f39bd9406c83ef28ca1748dae75298\jetified-firebase-iid-17.1.2\AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\73c6ebae55e1063976da0bfb8db291ee\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\73c6ebae55e1063976da0bfb8db291ee\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\8788329fc7857a8f3087d90c849888cf\jetified-play-services-measurement-impl-16.5.0\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\8788329fc7857a8f3087d90c849888cf\jetified-play-services-measurement-impl-16.5.0\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\cbe8c557cb936c15c17195565a33bcf5\jetified-play-services-measurement-sdk-api-16.5.0\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\cbe8c557cb936c15c17195565a33bcf5\jetified-play-services-measurement-sdk-api-16.5.0\AndroidManifest.xml:25:5-68
-	android:name
-		ADDED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-65
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-16:19
-MERGED from [:firebase_auth] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_auth] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+ADDED from [:firebase_storage] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-16:19
+MERGED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-16:19
 MERGED from [:cloud_firestore] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
 MERGED from [:cloud_firestore] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_storage] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_storage] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
 MERGED from [:firebase_core] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
 MERGED from [:firebase_core] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
-MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b36e8cabc026e2b9451afab64f421250\jetified-firebase-auth-17.0.0\AndroidManifest.xml:33:9-39:19
-MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b36e8cabc026e2b9451afab64f421250\jetified-firebase-auth-17.0.0\AndroidManifest.xml:33:9-39:19
 MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\33ff89dd784c3373bf863217adbb3d5b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:17:9-23:19
 MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\33ff89dd784c3373bf863217adbb3d5b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:17:9-23:19
 MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\89cdd51e06000a5f6d8fab2d1dd0c21f\jetified-firebase-storage-17.0.0\AndroidManifest.xml:30:9-34:19
 MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\89cdd51e06000a5f6d8fab2d1dd0c21f\jetified-firebase-storage-17.0.0\AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b36e8cabc026e2b9451afab64f421250\jetified-firebase-auth-17.0.0\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b36e8cabc026e2b9451afab64f421250\jetified-firebase-auth-17.0.0\AndroidManifest.xml:33:9-39:19
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\713db4d2ce26b864605c5f767a4d4a34\jetified-play-services-measurement-api-16.5.0\AndroidManifest.xml:27:9-33:19
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\713db4d2ce26b864605c5f767a4d4a34\jetified-play-services-measurement-api-16.5.0\AndroidManifest.xml:27:9-33:19
 MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\31f39bd9406c83ef28ca1748dae75298\jetified-firebase-iid-17.1.2\AndroidManifest.xml:29:9-35:19
@@ -373,25 +345,19 @@ MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\YASMANI\.gradle\c
 MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\8781d0c7f83fc7dc4b8f189f24f2a928\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
 MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\8781d0c7f83fc7dc4b8f189f24f2a928\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b36e8cabc026e2b9451afab64f421250\jetified-firebase-auth-17.0.0\AndroidManifest.xml:35:13-37
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\33ff89dd784c3373bf863217adbb3d5b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:19:13-37
 	tools:targetApi
 		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\8781d0c7f83fc7dc4b8f189f24f2a928\jetified-firebase-common-19.3.0\AndroidManifest.xml:36:13-32
 	android:directBootAware
 		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\8781d0c7f83fc7dc4b8f189f24f2a928\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
 	android:name
-		ADDED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:12:18-89
-meta-data#com.google.firebase.components:io.flutter.plugins.firebaseanalytics.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:85
+		ADDED from [:firebase_storage] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_storage] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-82
+		ADDED from [:firebase_storage] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-127
-meta-data#com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_auth] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
-	android:value
-		ADDED from [:firebase_auth] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
-	android:name
-		ADDED from [:firebase_auth] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-122
+		ADDED from [:firebase_storage] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-126
 provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
 ADDED from [:image_picker] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
 	android:grantUriPermissions
@@ -408,24 +374,94 @@ ADDED from [:image_picker] C:\Users\YASMANI\Desktop\platzi_flutter_application_1
 		ADDED from [:image_picker] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
 	android:name
 		ADDED from [:image_picker] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\33ff89dd784c3373bf863217adbb3d5b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\33ff89dd784c3373bf863217adbb3d5b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:13:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\627740c16ca6b1437d59651e6b834043\grpc-android-1.21.0\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\627740c16ca6b1437d59651e6b834043\grpc-android-1.21.0\AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\89cdd51e06000a5f6d8fab2d1dd0c21f\jetified-firebase-storage-17.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\89cdd51e06000a5f6d8fab2d1dd0c21f\jetified-firebase-storage-17.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\713db4d2ce26b864605c5f767a4d4a34\jetified-play-services-measurement-api-16.5.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\713db4d2ce26b864605c5f767a4d4a34\jetified-play-services-measurement-api-16.5.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\31f39bd9406c83ef28ca1748dae75298\jetified-firebase-iid-17.1.2\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\31f39bd9406c83ef28ca1748dae75298\jetified-firebase-iid-17.1.2\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\73c6ebae55e1063976da0bfb8db291ee\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\73c6ebae55e1063976da0bfb8db291ee\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\8788329fc7857a8f3087d90c849888cf\jetified-play-services-measurement-impl-16.5.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\8788329fc7857a8f3087d90c849888cf\jetified-play-services-measurement-impl-16.5.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\cbe8c557cb936c15c17195565a33bcf5\jetified-play-services-measurement-sdk-api-16.5.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\cbe8c557cb936c15c17195565a33bcf5\jetified-play-services-measurement-sdk-api-16.5.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\713db4d2ce26b864605c5f767a4d4a34\jetified-play-services-measurement-api-16.5.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\713db4d2ce26b864605c5f767a4d4a34\jetified-play-services-measurement-api-16.5.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\31f39bd9406c83ef28ca1748dae75298\jetified-firebase-iid-17.1.2\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\31f39bd9406c83ef28ca1748dae75298\jetified-firebase-iid-17.1.2\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\73c6ebae55e1063976da0bfb8db291ee\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\73c6ebae55e1063976da0bfb8db291ee\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\8788329fc7857a8f3087d90c849888cf\jetified-play-services-measurement-impl-16.5.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\8788329fc7857a8f3087d90c849888cf\jetified-play-services-measurement-impl-16.5.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\cbe8c557cb936c15c17195565a33bcf5\jetified-play-services-measurement-sdk-api-16.5.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\cbe8c557cb936c15c17195565a33bcf5\jetified-play-services-measurement-sdk-api-16.5.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-65
+meta-data#com.google.firebase.components:io.flutter.plugins.firebaseanalytics.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:85
+	android:value
+		ADDED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-82
+	android:name
+		ADDED from [:firebase_analytics] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-127
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar
 ADDED from [:cloud_firestore] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 	android:value
 		ADDED from [:cloud_firestore] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 	android:name
 		ADDED from [:cloud_firestore] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-133
-meta-data#com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_storage] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+meta-data#com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_auth] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_storage] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_auth] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_storage] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-126
+		ADDED from [:firebase_auth] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-122
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
 ADDED from [:firebase_core] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 	android:value
 		ADDED from [:firebase_core] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 	android:name
 		ADDED from [:firebase_core] C:\Users\YASMANI\Desktop\platzi_flutter_application_1\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-123
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:34:13-89
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\33ff89dd784c3373bf863217adbb3d5b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\33ff89dd784c3373bf863217adbb3d5b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\33ff89dd784c3373bf863217adbb3d5b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\89cdd51e06000a5f6d8fab2d1dd0c21f\jetified-firebase-storage-17.0.0\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\89cdd51e06000a5f6d8fab2d1dd0c21f\jetified-firebase-storage-17.0.0\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\89cdd51e06000a5f6d8fab2d1dd0c21f\jetified-firebase-storage-17.0.0\AndroidManifest.xml:32:17-107
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
 ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b36e8cabc026e2b9451afab64f421250\jetified-firebase-auth-17.0.0\AndroidManifest.xml:24:9-31:50
 	android:excludeFromRecents
@@ -448,18 +484,6 @@ ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\YASMANI\.gradle\c
 		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b36e8cabc026e2b9451afab64f421250\jetified-firebase-auth-17.0.0\AndroidManifest.xml:38:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b36e8cabc026e2b9451afab64f421250\jetified-firebase-auth-17.0.0\AndroidManifest.xml:37:17-109
-meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
-ADDED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\33ff89dd784c3373bf863217adbb3d5b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:20:13-22:85
-	android:value
-		ADDED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\33ff89dd784c3373bf863217adbb3d5b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:22:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\33ff89dd784c3373bf863217adbb3d5b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:21:17-111
-meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
-ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\89cdd51e06000a5f6d8fab2d1dd0c21f\jetified-firebase-storage-17.0.0\AndroidManifest.xml:31:13-33:85
-	android:value
-		ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\89cdd51e06000a5f6d8fab2d1dd0c21f\jetified-firebase-storage-17.0.0\AndroidManifest.xml:33:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\89cdd51e06000a5f6d8fab2d1dd0c21f\jetified-firebase-storage-17.0.0\AndroidManifest.xml:32:17-107
 meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
 ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\713db4d2ce26b864605c5f767a4d4a34\jetified-play-services-measurement-api-16.5.0\AndroidManifest.xml:30:13-32:85
 	android:value
@@ -514,24 +538,6 @@ ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\YASMANI\.gradle
 		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\8781d0c7f83fc7dc4b8f189f24f2a928\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
 	android:name
 		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\8781d0c7f83fc7dc4b8f189f24f2a928\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
-activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:23:9-27:75
-	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:25:13-46
-	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:26:13-37
-	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:27:13-72
-	android:name
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:24:13-93
-service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:33:9-36:110
-	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:35:13-36
-	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:36:13-107
-	android:name
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\b3a15334594ace803bd1f1c877a7a392\jetified-play-services-auth-16.0.1\AndroidManifest.xml:34:13-89
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
 ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\73c6ebae55e1063976da0bfb8db291ee\jetified-play-services-measurement-16.5.0\AndroidManifest.xml:26:5-110
 MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\YASMANI\.gradle\caches\transforms-2\files-2.1\8788329fc7857a8f3087d90c849888cf\jetified-play-services-measurement-impl-16.5.0\AndroidManifest.xml:26:5-110
